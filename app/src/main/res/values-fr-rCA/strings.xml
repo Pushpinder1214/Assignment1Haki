@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+    <string name="AI_Activity">Activité AI :</string>
+    <string name="OnCreate_Executed">OnCreate exécuté</string>
+    <string name ="OnStart_Executed">OnStart exécuté</string>
+    <string name="VR_Activity">Activité VR:</string>
+    <string name="OnStop_Executed">OnStop exécuté</string>
+    <string name ="OnDestroy_Executed">OnDestroy exécuté</string>
+    <string name ="Main_Activity">  Activité principale </string>
+    <string name ="OnPause_Executed"> OnPause exécuté </string>
+    <string name ="OnResume_Executed">  OnResume exécuté </string>
+</resources>

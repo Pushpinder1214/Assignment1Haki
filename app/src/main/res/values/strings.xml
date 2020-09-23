@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="AI_Activity">AI Activity :</string>
+    <string name="OnCreate_Executed">OnCreate Executed</string>
+    <string name ="OnStart_Executed">OnStart Executed</string>
+    <string name="VR_Activity">VR Activity :</string>
+    <string name="OnStop_Executed">OnStop Executed</string>
+    <string name ="OnDestroy_Executed">OnDestroy Executed</string>
+    <string name ="Main_Activity">   Main Activity: </string>
+    <string name ="OnPause_Executed">  OnPause Executed</string>
+    <string name ="OnResume_Executed">  OnResume Executed</string>
+
+
+</resources>
