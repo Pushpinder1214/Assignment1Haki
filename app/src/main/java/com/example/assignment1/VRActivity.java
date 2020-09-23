@@ -11,6 +11,6 @@ public class VRActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_v_r);
-        Toast.makeText(getApplicationContext(),"You are in VR Activity", Toast.LENGTH_SHORT).show();
+        Toast.makeText(getApplicationContext(),"You are in VR Activity ", Toast.LENGTH_SHORT).show();
     }
 }
